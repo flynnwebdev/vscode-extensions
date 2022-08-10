@@ -1,0 +1,15 @@
+DavidAnson.vscode-markdownlint
+esbenp.prettier-vscode
+mechatroner.rainbow-csv
+ms-python.pylint
+ms-python.python
+ms-python.vscode-pylance
+ms-vsliveshare.vsliveshare
+PKief.material-icon-theme
+redhat.vscode-yaml
+ritwickdey.LiveServer
+TabNine.tabnine-vscode
+tomoki1207.pdf
+VisualStudioExptTeam.vscodeintellicode
+yzane.markdown-pdf
+yzhang.markdown-all-in-one
