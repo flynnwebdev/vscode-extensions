@@ -1,1 +1,3 @@
-curl https://raw.githubusercontent.com/flynnwebdev/vscode-extensions/main/term1.txt | xargs -l code --force --install-extension
+for ext in `cat vsc-extensions.txt`; do
+  code --force --install-extension "$ext"
+done

@@ -8,8 +8,6 @@ PKief.material-icon-theme
 redhat.vscode-yaml
 ritwickdey.LiveServer
 TabNine.tabnine-vscode
-tomoki1207.pdf
 VisualStudioExptTeam.intellicode-api-usage-examples
 VisualStudioExptTeam.vscodeintellicode
-yzane.markdown-pdf
 mongodb.mongodb-vscode
