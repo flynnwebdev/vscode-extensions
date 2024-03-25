@@ -10,12 +10,10 @@ ms-python.debugpy
 ms-python.pylint
 ms-python.python
 ms-python.vscode-pylance
-ms-vscode-remote.remote-wsl
 mtxr.sqltools
 pkief.material-icon-theme
 redhat.vscode-yaml
 ritwickdey.liveserver
 tabnine.tabnine-vscode
-tomoki1207.pdf
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
