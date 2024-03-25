@@ -8,3 +8,6 @@ if type "cmd.exe" | grep WINDOWS > /dev/null; then
   cmd.exe /C code --force --install-extension "ms-vscode-remote.remote-wsl"
   cmd.exe /C code --force --install-extension "ms-vscode-remote.remote-wsl"
 fi
+
+echo
+echo "Please restart VS Code if it is already running."
