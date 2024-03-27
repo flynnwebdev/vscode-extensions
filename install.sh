@@ -4,7 +4,7 @@ for ext in `curl https://raw.githubusercontent.com/flynnwebdev/vscode-extensions
 done
 
 # If running in WSL, install additional Windows-only extensions
-if type "cmd.exe" | grep WINDOWS > /dev/null; then
+if uname -a | grep WSL > /dev/null; then
   cmd.exe /C code --force --install-extension "ms-vscode-remote.remote-wsl"
   cmd.exe /C code --force --install-extension "ms-vscode-remote.remote-wsl"
 fi
