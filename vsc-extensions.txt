@@ -1,3 +1,4 @@
+bierner.markdown-preview-github-styles
 davidanson.vscode-markdownlint
 dbaeumer.vscode-eslint
 dsznajder.es7-react-js-snippets
@@ -14,6 +15,5 @@ mtxr.sqltools
 pkief.material-icon-theme
 redhat.vscode-yaml
 ritwickdey.liveserver
-tabnine.tabnine-vscode
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
