@@ -17,3 +17,4 @@ redhat.vscode-yaml
 ritwickdey.liveserver
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
+njpwerner.autodocstring
