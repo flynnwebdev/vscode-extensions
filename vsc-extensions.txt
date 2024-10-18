@@ -15,6 +15,7 @@ mtxr.sqltools
 pkief.material-icon-theme
 redhat.vscode-yaml
 ritwickdey.liveserver
+glenn2223.live-sass
 visualstudioexptteam.intellicode-api-usage-examples
 visualstudioexptteam.vscodeintellicode
 njpwerner.autodocstring
